@@ -1,0 +1,79 @@
+body { 
+        font-size: 14px;
+        font-family: arial, helvetica, sans-serif;
+	text-align: center;
+	background-color: #485469;
+	}
+.color {
+    color: #308899;	
+	}
+.colorb {
+     color: #409D86;
+	}
+h3  {
+       text-align:left;
+       padding-left:50px;
+       margin-bottom:5px;
+       padding-top:10px;
+       font-style:italic;
+    }
+
+div.a{
+    border:1x solid black;
+	background-color:white;
+	width: 900px;
+	height: 600px;
+	margin:auto;	
+	padding-top:5px;
+	padding-bottom:25px;
+	border-radius:20px;
+	}
+div.first {
+    border:1x solid black;
+	background-color: #D8D8D2;
+	width: 1000px;
+	height: 800px;
+	margin: auto;
+	margin-top:30px;
+	padding-top:10px;
+	padding-bottom:0px;
+	border-radius:20px;
+ }
+div.advisory {
+  padding-top: 40px;
+  font-size: 12px;
+  font-weight:bold;
+  font-style:italic;
+}
+#lectures
+{
+font-family:"Trebuchet MS", Arial, Helvetica, sans-serif;
+width:800px;
+border-collapse:collapse;
+margin:auto;
+}
+
+#lectures td, #lectures th 
+{
+font-size:1em;
+border:1px solid #308899;
+padding:3px 7px 2px 7px;
+text-align:justify;
+}
+#lectures th 
+{
+font-size:1.1em;
+text-align:center;
+padding-top:5px;
+padding-bottom:4px;
+background-color:#409D86;
+color:white;
+}
+#lectures tr.tea td 
+{
+color : black;
+background-color:#F1F7F6;
+}
+td:last-child {
+text-align:right;
+}
